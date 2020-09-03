@@ -1,0 +1,15 @@
+{
+    "name": "iamxcd/multitask",
+    "authors": [
+        {
+            "name": "x",
+            "email": "songbai_x@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Iamxcd\\Multitask\\": "src/"
+        }
+    }
+}
